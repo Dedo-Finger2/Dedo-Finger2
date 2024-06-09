@@ -9,9 +9,9 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Node.JS, Typescript, Software Design, English**
+- 🌱 I’m currently learning **Node.JS, Typescript, Software Design, English, Git, Javascript**
 
-- 💬 Ask me about **Javascript, Typescript, Web development, NodeJS, Figma, PostgreSQL**
+- 💬 Ask me about **Javascript, Typescript, Web Development, Node.JS, Figma, SQL, PostgreSQL.**
 
 - 📫 How to reach me **antonioimportant@gmail.com**
 
