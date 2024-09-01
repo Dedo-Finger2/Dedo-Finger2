@@ -77,5 +77,5 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dedo-finger2&theme=dark" alt="dedo-finger2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dedo-finger2&show_icons=true&theme=gruvbox&locale=en" alt="dedo-finger2" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dedo-finger2&show_icons=true&theme=gruvbox&locale=en" alt="dedo-finger2" /></p>
 
