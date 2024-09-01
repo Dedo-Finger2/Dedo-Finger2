@@ -1,9 +1,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrainsMono&size=35&center=true&vCenter=true&width=700&height=70&duration=3000&pause=1500&lines=Coffee+☕;+Hi+there,+Antonio+Mauricio+here;+Golang+fan+and+developer!;" />
 </h1>
-<h3 align="center">A passionate back-end developer and soon a full-stack developer from Brazil.</h3>
+<h3 align="center">❤️ A passionate back-end developer and soon a full-stack developer from Brazil 🧑‍💻</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dedo-finger2" alt="dedo-finger2" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dedo-finger2&row=3&column=3" alt="dedo-finger2" /></a> </p>
 
 <hr>
 
